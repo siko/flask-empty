@@ -1,12 +1,12 @@
 flask-empty
 ===========
 
-This is my template file for new flask projects
+This is my template file for new flask projects, passenger_wsgi.py is for dreamhost python evn.
 
 **Setup Instructions:**
 
 1. Clone template project:
-    1. git clone git@github.com:siko/flask-empty.git project-name.git
+    1. git clone https://github.com/siko/flask-empty.git project-name.git
     2. cd project-name.git
     3. git branch project-name
     4. git checkout project-name
